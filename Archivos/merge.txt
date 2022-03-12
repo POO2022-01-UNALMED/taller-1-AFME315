@@ -1,2 +1,6 @@
 Mi nombre es Andres Felipe Mena Estrada tengo 18 años y me gustaria profundizar mas en el campo de la programacion para 
 poder enteder el tranfondo de las interfaces y aplicaciones que nos rodean y mejorarlas o crear mejores
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+porque al trabajar con ambos archivos github no puede saber cual tomar y al intentar resolver el error puede que elimine
+el trabajo que haya estado haciendo
